@@ -1,3 +1,4 @@
+//rna transcription 
 export const toRna = dna => {
   const map = {
     C: 'G',
