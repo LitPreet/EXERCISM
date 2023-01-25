@@ -1,5 +1,5 @@
 // @ts-check
-//Elyses Enchantment
+//Elyses Enchantment js
 /**
  * Retrieve card from cards array at the 0-based position
  *
