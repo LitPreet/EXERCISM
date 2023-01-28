@@ -1,5 +1,5 @@
 // @ts-check
-//freelancer rates 
+//freelancer rates js
 // ☝🏽 The line above enables type checking for this file. Various IDEs interpret
 // the @ts-check directive. It will give you helpful autocompletion on the web
 // and supported IDEs when implementing this exercise. You don't need to
