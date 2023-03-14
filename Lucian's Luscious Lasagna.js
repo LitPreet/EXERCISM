@@ -7,7 +7,7 @@
 // understand types, JSDoc, or TypeScript in order to complete this JavaScript
 // exercise, and can completely ignore this comment block and directive.
 
-// 👋🏽 Hi there!
+// 👋🏽 Hi there 🎈
 //
 // On the JavaScript track we provide you with stubs. These stubs provide a
 // starting point to solving the exercise.
