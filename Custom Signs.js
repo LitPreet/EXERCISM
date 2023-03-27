@@ -1,5 +1,5 @@
 // @ts-check
-//custom sign js file
+//custom sign js 
 // The line above enables type checking for this file. Various IDEs interpret
 // the @ts-check directive. It will give you helpful autocompletion when
 // implementing this exercise.
