@@ -1,5 +1,6 @@
 // @ts-check
 //custom sign js 
+
 // The line above enables type checking for this file. Various IDEs interpret
 // the @ts-check directive. It will give you helpful autocompletion when
 // implementing this exercise.
@@ -23,7 +24,7 @@ export function buildSign(occasion, name) {
  * @param {number} age
  *
  * @returns {string} template string based on age
- */
+
 
 export function buildBirthdaySign(age) {
  return (`Happy Birthday! What a ${age>=50 ? 'mature':'young'} fellow you are.`)
