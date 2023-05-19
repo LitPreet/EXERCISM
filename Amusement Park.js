@@ -1,6 +1,6 @@
 /// <reference path="./global.d.ts" />
 // @ts-check
-//amusement parks js program
+//amusement parks js 
 /**
  * Creates a new visitor.
  *
