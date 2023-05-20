@@ -1,6 +1,6 @@
 /// <reference path="./global.d.ts" />
 // @ts-check @
-//High school board js
+//High school board 
 /**
  * Creates a new score board with an initial entry.
  *
