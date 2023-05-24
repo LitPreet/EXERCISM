@@ -1,6 +1,6 @@
 /// <reference path="./global.d.ts" />
 // @ts-check
-//Lasagna Master program
+//Lasagna Master js
 
 /**
  * Implement the functions needed to solve the exercise here.
