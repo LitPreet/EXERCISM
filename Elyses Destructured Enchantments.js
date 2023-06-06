@@ -1,6 +1,6 @@
 /// <reference path="./global.d.ts" />
 // @ts-check
-//Elyses Destructured Enchantments js
+//Elyses Destructured Enchantments js j
 
 /**
  * Get the first card in the given deck
