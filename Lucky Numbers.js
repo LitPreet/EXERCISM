@@ -1,5 +1,5 @@
 // @ts-check
-//Lucky number js
+//Lucky number js j
 /**
  * Calculates the sum of the two input arrays.
  *
