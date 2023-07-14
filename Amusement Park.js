@@ -1,5 +1,5 @@
 /// <reference path="./global.d.ts" />
-// @ts-check js
+// @ts-check 
 //amusement parks 
 /**
  * Creates a new visitor.
