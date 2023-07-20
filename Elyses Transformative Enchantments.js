@@ -1,5 +1,5 @@
 //Elyses Transformative Enchantments 
-// @ts-check 
+// @ts-check js
 /**
  * Double every card in the deck.
  *
