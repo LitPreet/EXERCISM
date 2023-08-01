@@ -1,5 +1,5 @@
 // @ts-check
-//bird watcher 
+//bird watcher js
 //
 // The line above enables type checking for this file. Various IDEs interpret
 // the @ts-check directive. It will give you helpful autocompletion when
