@@ -1,4 +1,4 @@
-//Resistor Color js
+//Resistor Color
 
 export const colorCode = ((color) => 
 COLORS.indexOf(color));
