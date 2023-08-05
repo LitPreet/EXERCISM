@@ -1,4 +1,4 @@
-//rna transcription js progr
+//rna transcription js 
 export const toRna = dna => {
   const map = {
     C: 'G',
