@@ -1,5 +1,5 @@
 // This is only a SKELETON file for the 'Pangram' exercise. It's been provided as a
-// convenience to get you started writing code faster.
+// convenience to ge you started writing code faster.
 //pangram js
 export const isPangram = (words) => {
   var unique = new Set();    
