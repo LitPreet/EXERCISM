@@ -2,7 +2,7 @@
 For support, please post in the new Exercism forum. New posts here will be closed.
 
 Welcome to Exercism
-Where to open issues
+Where to open issue
 For the time being we are triaging all issues from our forum. Please start a new topic there for your issue (presuming there isn't one already). Issues opened here will be automatically closed and you will receive a message redirecting you to the forum.
 
 Feeling uncomfortable?
