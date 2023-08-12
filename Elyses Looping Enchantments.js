@@ -1,5 +1,5 @@
 // @ts-check
-//Elyses looping enchantments 
+//Elyses looping enchantments js
 
 /**
  * Determine how many cards of a certain type there are in the deck
