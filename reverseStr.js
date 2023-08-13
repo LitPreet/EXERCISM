@@ -1,6 +1,6 @@
 var string = "Welcome to this Javascript Guide!";
 
-// Output becomes !ediuG tpircsavaJ siht ot emocleW
+// Output becomes !ediuG tpircsavaJ siht ot emocleW js
 var reverseEntireSentence = reverseBySeparator(string, "");
 
 // Output becomes emocleW ot siht tpircsavaJ !ediuG
