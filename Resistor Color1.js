@@ -1,4 +1,4 @@
-//Resistor Color1 js color code
+//Resistor Color1 js color 
 // This is only a SKELETON file for the 'Resistor Color' exercise. It's been provided as a
 // convenience to get you started writing code faster.
 //
