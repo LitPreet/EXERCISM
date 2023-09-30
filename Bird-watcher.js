@@ -1,4 +1,4 @@
-// @ts-check
+
 //bird watcher js
 //
 // The line above enables type checking for this file. Various IDEs interpret
